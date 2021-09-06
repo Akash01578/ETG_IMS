@@ -3,7 +3,7 @@ This is Inventory Management System project in this you can add, update and buy 
 
 # AddInventory.ipnyb file
 In this file code handle.
-1.Adding product in record.json file which is our whole Inventory record.
+1.Adding product in record.json file which is our whole Inventory record\n.
 2.Updating the existing product details if you wants to update it in record.json file if product is not present then add it in inventory.
 
 # BuyInventory.ipnyn file
