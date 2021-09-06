@@ -1,0 +1,219 @@
+{
+    "1": {
+        "Name": "pizza",
+        "Price": 199,
+        "Quantity": 11,
+        "Discount": 20,
+        "Category": "snacks"
+    },
+    "2": {
+        "Name": "Chocos",
+        "Price": 20,
+        "Quantity": 20,
+        "Discount": 2,
+        "Category": "snacks"
+    },
+    "3": {
+        "Name": "kurkure",
+        "Price": 10,
+        "Quantity": 22,
+        "Discount": 2,
+        "Category": "snacks"
+    },
+    "4": {
+        "Name": "Ice-Cream",
+        "Price": 60,
+        "Quantity": 50,
+        "Discount": 10,
+        "Category": "Dessert"
+    },
+    "5": {
+        "Name": "Chips",
+        "Price": 10,
+        "Quantity": 50,
+        "Discount": 0,
+        "Category": "snacks"
+    },
+    "6": {
+        "Name": "Mangoes",
+        "Price": 80,
+        "Quantity": 28,
+        "Discount": 5,
+        "Category": "Fruits"
+    },
+    "7": {
+        "Name": "Apples",
+        "Price": 50,
+        "Quantity": 40,
+        "Discount": 5,
+        "Category": "50"
+    },
+    "8": {
+        "Name": "5-Star",
+        "Price": 10,
+        "Quantity": 100,
+        "Discount": 0,
+        "Category": "cadbarry"
+    },
+    "9": {
+        "Name": "Bananas",
+        "Price": 40,
+        "Quantity": 30,
+        "Discount": 2,
+        "Category": "Fruits"
+    },
+    "10": {
+        "Name": "kaccha-Mango",
+        "Price": 5,
+        "Quantity": 120,
+        "Discount": 0,
+        "Category": "Chocklet"
+    },
+    "11": {
+        "Name": "melody",
+        "Price": 10,
+        "Quantity": 80,
+        "Discount": 0,
+        "Category": "chocklet"
+    },
+    "12": {
+        "Name": "Strawberry",
+        "Price": 160,
+        "Quantity": 79,
+        "Discount": 10,
+        "Category": "Fruits"
+    },
+    "13": {
+        "Name": "Raw-Mangoes",
+        "Price": 80,
+        "Quantity": 110,
+        "Discount": 10,
+        "Category": "Fruits"
+    },
+    "14": {
+        "Name": "Slice",
+        "Price": 70,
+        "Quantity": 90,
+        "Discount": 5,
+        "Category": "cold-drinks"
+    },
+    "15": {
+        "Name": "Mountain-dew",
+        "Price": 50,
+        "Quantity": 78,
+        "Discount": 6,
+        "Category": "cold-drinks"
+    },
+    "16": {
+        "Name": "Happy-Happy",
+        "Price": 20,
+        "Quantity": 80,
+        "Discount": 2,
+        "Category": "Biscuit"
+    },
+    "17": {
+        "Name": "Bour-bon",
+        "Price": 20,
+        "Quantity": 80,
+        "Discount": 2,
+        "Category": "Biscuit"
+    },
+    "18": {
+        "Name": "Park",
+        "Price": 10,
+        "Quantity": 80,
+        "Discount": 2,
+        "Category": "chocklet"
+    },
+    "19": {
+        "Name": "kiss-me",
+        "Price": 10,
+        "Quantity": 76,
+        "Discount": 0,
+        "Category": "chocklet"
+    },
+    "20": {
+        "Name": "Watermelon",
+        "Price": 80,
+        "Quantity": 80,
+        "Discount": 5,
+        "Category": "Fruits"
+    },
+    "21": {
+        "Name": "chiku",
+        "Price": 50,
+        "Quantity": 80,
+        "Discount": 5,
+        "Category": "Fruits"
+    },
+    "22": {
+        "Name": "lays",
+        "Price": 10,
+        "Quantity": 50,
+        "Discount": 2,
+        "Category": "snacks"
+    },
+    "23": {
+        "Name": "kracks",
+        "Price": 20,
+        "Quantity": 24,
+        "Discount": 2,
+        "Category": "snacks"
+    },
+    "24": {
+        "Name": "Bingo",
+        "Price": 10,
+        "Quantity": 100,
+        "Discount": 2,
+        "Category": "snacks"
+    },
+    "25": {
+        "Name": "French-fries",
+        "Price": 50,
+        "Quantity": 78,
+        "Discount": 5,
+        "Category": "snacks"
+    },
+    "26": {
+        "Name": "Vada-Pav",
+        "Price": 30,
+        "Quantity": 80,
+        "Discount": 5,
+        "Category": "snacks"
+    },
+    "27": {
+        "Name": "Tea",
+        "Price": 20,
+        "Quantity": 80,
+        "Discount": 5,
+        "Category": "hot-drink"
+    },
+    "28": {
+        "Name": "Coffee",
+        "Price": 20,
+        "Quantity": 100,
+        "Discount": 5,
+        "Category": "hot-drink"
+    },
+    "29": {
+        "Name": "Custed-apple",
+        "Price": 80,
+        "Quantity": 80,
+        "Discount": 5,
+        "Category": "Fruits"
+    },
+    "30": {
+        "Name": "Burger",
+        "Price": 60,
+        "Quantity": 80,
+        "Discount": 5,
+        "Category": "snacks"
+    },
+    "31": {
+        "Name": "paneer",
+        "Price": 120.0,
+        "Quantity": 120,
+        "Discount": 20,
+        "Category": "Milk-Products"
+    }
+}

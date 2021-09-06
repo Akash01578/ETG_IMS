@@ -1,0 +1,62 @@
+{
+    "2021-09-06 10:08:47.946497": {
+        "Name": "pizza",
+        "Quantity": 1,
+        "Price": 199.0,
+        "Amount with Discount": 179.1
+    },
+    "2021-09-06 16:25:19.720617": {
+        "Name": "kurkure",
+        "Quantity": 1,
+        "Price": 10.0,
+        "Amount with Discount": 9.8
+    },
+    "2021-09-06 16:25:49.031324": {
+        "Name": "Mangoes",
+        "Quantity": 2,
+        "Price": 80.0,
+        "Amount with Discount": 152.0
+    },
+    "2021-09-06 16:26:09.460027": {
+        "Name": "kracks",
+        "Quantity": 4,
+        "Price": 20.0,
+        "Amount with Discount": 78.4
+    },
+    "2021-09-06 16:26:40.972913": {
+        "Name": "Strawberry",
+        "Quantity": 1,
+        "Price": 160.0,
+        "Amount with Discount": 144.0
+    },
+    "2021-09-06 16:27:25.877700": {
+        "Name": "French-fries",
+        "Quantity": 2,
+        "Price": 50.0,
+        "Amount with Discount": 95.0
+    },
+    "2021-09-06 16:27:36.208319": {
+        "Name": "pizza",
+        "Quantity": 1,
+        "Price": 199.0,
+        "Amount with Discount": 159.2
+    },
+    "2021-09-06 16:28:02.825286": {
+        "Name": "kiss-me",
+        "Quantity": 4,
+        "Price": 10.0,
+        "Amount with Discount": 40.0
+    },
+    "2021-09-06 16:28:56.569366": {
+        "Name": "Coffee",
+        "Quantity": 1,
+        "Price": 20.0,
+        "Amount with Discount": 19.0
+    },
+    "2021-09-06 16:29:09.272452": {
+        "Name": "kracks",
+        "Quantity": 2,
+        "Price": 20.0,
+        "Amount with Discount": 39.2
+    }
+}
