@@ -11,6 +11,7 @@ In this file code handle.
 1. To buy the product from inventory and update the quantity in record after purchase.
 2. It gives total amount with discount for billing. 
 3. It update the sales.json file which contains the purchased product details.
+4. It also delete the record if the quantity of any products becomes zero and update the inventory.
 
 ## record.json
 It contains all the product details with their product id as inventory.
